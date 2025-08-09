@@ -11,7 +11,7 @@ import About from './About'
 import Contact from './Contact'
 import Footer from './Footer'
 import VegetableCard from '../../usablecomponent/VegetableCard'
-import FruitCard from '../../usablecomponent/Fruitcard'
+import FruitCard from '../../usablecomponent/FruitCard'
 import CircularImageCarousel from '../../usablecomponent/CircularImageCursor'
 
 
